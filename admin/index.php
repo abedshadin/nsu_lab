@@ -88,6 +88,7 @@ $search_value=$_SESSION["admin_name"];
 
 <center>
 <a class="nav-link" href="index.php">Dashboard <span class="sr-only"></span></a> &nbsp;&nbsp;&nbsp;
+<a class="nav-link" href="submission.php">Submissions <span class="sr-only"></span></a> &nbsp;&nbsp;&nbsp;
 <a class="nav-link" href="users.php">Users</a>&nbsp;&nbsp;&nbsp;
 <a class="nav-link" href="notice.php">Notice</a>&nbsp;&nbsp;&nbsp;
 </center>
